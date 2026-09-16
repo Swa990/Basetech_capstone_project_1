@@ -10,20 +10,20 @@ Objective: Minimize the difference between predicted and actual delivery time us
 
 Ground Truth: The actual delivery time recorded when the package is delivered.
 
-2. Feature Mapping
-   
-Feature	                      Type
+## 2. Feature Mapping
 
-Delivery distance	           Numerical
-Traffic level	               Categorical
-Weather condition	           Categorical
-Time of day	                 Categorical
-Day of week	                 Categorical
-Number of items	             Numerical
-Pickup waiting time	         Numerical
-Delivery partner experience  Numerical
-Road congestion score	       Numerical
-Vehicle type                 Categorical
+| Feature | Type |
+|---|---|
+| Delivery distance | Numerical |
+| Traffic level | Categorical |
+| Weather condition | Categorical |
+| Time of day | Categorical |
+| Day of week | Categorical |
+| Number of items | Numerical |
+| Pickup waiting time | Numerical |
+| Delivery partner experience | Numerical |
+| Road congestion score | Numerical |
+| Vehicle type | Categorical |
 
 
 3. Real-World Noise
